@@ -1,3 +1,13 @@
+# What this model offers
+
+[] Page routing with react-router-dom
+[] Connect to api
+[] SignIn page to autenthicate and store token from api 
+[] SignUp page to register a new user 
+[] Profile page to edit user info 
+[] Dashboard page example 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
