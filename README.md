@@ -1,11 +1,15 @@
-# What this model offers
+# What this template offers
 
 [] Page routing with react-router-dom
-[] Connect to api
-[] SignIn page to autenthicate and store token from api 
-[] SignUp page to register a new user 
-[] Profile page to edit user info 
-[] Dashboard page example 
+[x] Connect to api
+[] SignIn page to autenthicate and store token from api
+[] SignUp page to register a new user
+[] Profile page to edit user info
+[] Dashboard page example
+
+## Include development tools
+- eslint and prettier
+- styled-components
 
 
 # Getting Started with Create React App

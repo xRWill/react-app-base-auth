@@ -1,12 +1,9 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-    </div>
-  );
-}
+// import { Container } from './styles';
+
+const App: React.FC = () => {
+  return <div />;
+};
 
 export default App;
