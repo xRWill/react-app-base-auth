@@ -1,11 +1,11 @@
 # What this template offers
 
-[] Page routing with react-router-dom
+[x] Page routing with react-router-dom
 [x] Connect to api
-[] SignIn page to autenthicate and store token from api
-[] SignUp page to register a new user
+[x] SignIn page to autenthicate and store token from api
+[x] SignUp page to register a new user
 [] Profile page to edit user info
-[] Dashboard page example
+[x] Dashboard page example
 
 ## Include development tools
 - eslint and prettier

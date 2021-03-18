@@ -1,7 +1,9 @@
-import axios from 'axios';
+import axios, { AxiosRequestConfig } from 'axios';
 
-const api = axios.create({
+const options: AxiosRequestConfig = {
   baseURL: process.env.REACT_APP_API_URL,
-});
+};
+
+const api = axios.create(options);
 
 export default api;
